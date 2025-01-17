@@ -1,0 +1,12 @@
+
+
+JUnit 5
+
+Junit 5 is not junit 4 + 5
+it ios indipandant from other JUnit Versions
+
+J5 uses the Jupiter test API and you will be able to run the test on the Platform
+
+J5 is not backward Compatible
+Vintage API is the one that assists with backwards compatibility
+The extension api can be used if you dont want to use the Jupiter API

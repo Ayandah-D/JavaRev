@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf093a8-43e6-4501-b5db-400e7253bc06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../01/Calc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../01/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../01/LaunchCalc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../01/LaunchCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JUnitArchitecture.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../01_CORE/Stream1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_CORE/Stream1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/Calc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01/LaunchCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/LaunchCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JUnitArchitecture.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JUnitArchitecture.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,22 +20,34 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2rfaOtLazGqsx5NdAlKzWbGsz1u" />
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -48,5 +60,9 @@
       <updated>1736952555366</updated>
     </task>
     <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
